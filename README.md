@@ -1,24 +1,71 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/deevmath/5d5e0ab90914c2b15e613f60fd3e77de/raw/5b2b755a43eca431960ecd34f542d4733da9daea/cardgihub.svg"/>
 
-# Olá! me chamo Matheus Silva 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Silva</h1>
 
-## 💫 Um pouco mais sobre mim
-Apaixonado por tecnologia. Disposto a mudar o mundo com a programação.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deevmath&color=yellow" alt="Profile views" /> </p>
 
-## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+- 🔥 Junior Web Developer & Changing lives with programming
+
+<!--  - 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat) -->
+
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Node.JS**
+
+- ⚡ Fun fact **Oneye 😜**
+
+<!--  - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=deevmath&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+ <!-- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/> -->
 </p>
 
-## 👥 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byimatheus/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-952493233/)
+<br><br>
 
-## 📊 Github Status
+## Contact
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=deevmath&show_icons=true&theme=dracula"><p>
+<p align="left" style="background:yellow">
+  <a href="https://twitter.com/byimatheus" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-byimatheus-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-silva-952493233/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-matheussilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/byimatheus" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-byimatheus-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+</p>
 
+<!--
+
+<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+
+
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
